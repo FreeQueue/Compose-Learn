@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewspaperClient</string>
+    <string name="please_check_network_connection">请检查你的网络连接</string>
+</resources>
